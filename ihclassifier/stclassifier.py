@@ -5,7 +5,7 @@ import ast
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
-from testClassifiers import *
+from utils.testClassifiers import *
 
 """
 Build a streamlit app that takes in a prompt (str), model (str), and labeled data (csv)
