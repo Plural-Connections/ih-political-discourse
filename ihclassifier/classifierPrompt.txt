@@ -1,0 +1,44 @@
+You are assigned a coding task with the following
+codebook.
+Label: IH
+Definition: Intellectual Humility Look for comments
+that contain signs of any of the following: Acknowl-
+edges Personal Beliefs: Affirms individual convic-
+tions by speaking openly without contempt and uses
+first-person language to express an opinion or view-
+point. Engages Respectfully with Diverse Perspec-
+tives: Directly addresses and thoughtfully responds
+to differing perspectives in a way that acknowledges
+their validity or rationale. Recognizes limitations in
+one’s own knowledge or beliefs: Explicitly acknowl-
+edges that one’s political knowledge, beliefs, or in-
+formation sources may be incomplete or subject to
+bias. Seeks out new information: Actively searches
+for new knowledge and perspectives on political is-
+sues or clarification on statements made and/or posing
+non-rhetorical questions.
+Label: IA
+Definition: Intellectual Arrogance Look for com-
+ments that contain signs of any of the following: Po-
+larizing or Tribalistic Language: Characterizes oppos-
+ing groups as inherently evil, less human, or existen-
+tial threats, creating an ”us vs. them” narrative that
+undermines productive dialogue and fuels division.
+Mentioning a group in a negative way or mention-
+ing the negative actions of a group are not enough
+to warrant this label. The comment must explicitly
+characterize the opposing group as evil, less human,
+or existential threats. Condescending Attitude: Over-
+bearing or dismissive behavior that undermines oth-
+ers’ perspectives or intellect directing explicitly to-
+wards the reader of the comment. Look for overuse
+of sarcasm. Close-minded Absolutism: Using strong,
+definitive language to express convictions without en-
+gaging with or acknowledging diverse perspectives.
+Label: Neutral
+Neither of the labels apply. When in doubt, apply this
+label.
+Respond with one of the following labels. Do not add
+any explanations.
+Valid labels: IH, IA, Neutral
+The text to label is: {Comment to Label}
