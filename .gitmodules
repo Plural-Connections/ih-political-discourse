@@ -1,0 +1,3 @@
+[submodule "reddit-analysis"]
+	path = reddit-analysis
+	url = https://github.com/Plural-Connections/ih-political-discourse.git
