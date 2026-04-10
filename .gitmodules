@@ -1,3 +1,6 @@
 [submodule "reddit-analysis-code"]
 	path = reddit-analysis-code
 	url = https://github.com/WDthehappyone/IH_Reddit_Part.git
+[submodule "IH_Reddit_Part"]
+	path = IH_Reddit_Part
+	url = https://github.com/WDthehappyone/IH_Reddit_Part.git
